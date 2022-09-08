@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <string name="email_hint">email@example.com</string>
+    <string name="email_label">Enter your email:</string>
+    <string name="password_label">Enter your password:</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="welcome">WELCOME TO OUR SHOP!</string>
+    <string name="onboarding">Click the button to go to instructions</string>
+    <string name="instructions">Instructions</string>
+    <string name="welcome_to_instructions">Welcome to Instructions!</string>
+    <string name="description">Our shoe shop is your place for athletic and easygoing shoes for the entire family from many name brands. You’ll discover styles for ladies, men and children from brands like Nike, Converse, Vans, Sperry, Madden Girl, Skechers, ASICS and then some!\n\n Our shoe shop is a main family footwear goal for the popular brands you know and love.\n\n Our shoe shop is an assorted arrangement of worldwide footwear brands. Joined, these brands enable make to parent an organization with both an inheritance and a mission.</string>
+    <string name="shop">Shop</string>
+    <string name="shoes_details">Shoes details</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="password">Password</string>
+    <string name="message_new_user">Welcome to our shoe shop!</string>
+    <string name="message_existing_user">Glad to see you again!</string>
+    <string name="shoe_name">Shoe Name</string>
+    <string name="company">Company</string>
+    <string name="shoe_size">Shoe Size</string>
+    <string name="shoe_description">Description</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="welcome_label">Welcome!</string>
+    <string name="instructions_label">Instructions</string>
+    <string name="shoes_label">Shoes</string>
+    <string name="shoe_details_label">Shoe details</string>
+</resources>
